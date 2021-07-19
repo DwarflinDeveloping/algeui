@@ -1,0 +1,3 @@
+[submodule "pyalge"]
+	path = pyalge
+	url = https://github.com/DwarflinDeveloping/pyalge
